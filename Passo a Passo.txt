@@ -1,0 +1,32 @@
+Após fazer o download do Git e abrir o GIT BASH.
+
+Digitar: 
+
+1) git init
+    - Criando um repositório Git na sua máquina.
+
+2) git add .
+    - Adicionando todas as pastas e arquivos dentro do standing para ficarem prontos.
+
+3) git commit -m "Menssagem do seu commit"
+    - Postando todas as alterações.
+
+Agora, precisa criar um repositório dentro do GitHub, e depois pegar a URL deste repositório e vincular
+com o seu repositório local.
+
+Dentro do GIT BASH.
+Digitar:
+
+1) git remote add origin "URL do repositório".
+
+2) git push -u origin main 
+
+Após ter feito isso tudo pela primeira vez, nas proximas atualizações você somente digita:
+
+1) git add .
+    - Para sempre estar deixando os arquivos e pastas prontos para o "empurrão" push.
+
+2) git commit -m "menssagem"
+
+3) push origin main
+    - Desta vez não precisa do -u 
