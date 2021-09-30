@@ -10,4 +10,6 @@ git commit -m "menssagem do commit" -> Postar as altereções do projeto.
 
 git remote add origin "url do repositório" -> vincular o repositório local com o do gitHub.
 
+git remote remove origin -> remover o vinculo do repositório local com o do gitHub
+
 git push -u origin main (branch) -> empurrar as atualizações para o repositório do gitHub.
