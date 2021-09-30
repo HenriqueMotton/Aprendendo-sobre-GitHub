@@ -1,0 +1,13 @@
+git --version -> Auto explicativo.
+
+git init -> iniciar um repositório git.
+
+git add -> manda os arquivos para a area de standing (Aguardando..)
+
+git status -> Auto explicativo.
+
+git commit -m "menssagem do commit" -> Postar as altereções do projeto.
+
+git remote add origin "url do repositório" -> vincular o repositório local com o do gitHub.
+
+git push -u origin main (branch) -> empurrar as atualizações para o repositório do gitHub.
