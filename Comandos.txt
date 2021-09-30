@@ -2,7 +2,8 @@ git --version -> Auto explicativo.
 
 git init -> iniciar um repositório git.
 
-git add -> manda os arquivos para a area de standing (Aguardando..)
+git add (nome do arquivo) -> manda os arquivos para a area de standing (Aguardando..)
+git add . -> coloca todos os arquivos que estão no repositório no standing
 
 git status -> Auto explicativo.
 
