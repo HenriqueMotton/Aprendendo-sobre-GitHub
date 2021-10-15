@@ -13,4 +13,12 @@ git remote add origin "url do repositório" -> vincular o repositório local com
 
 git remote remove origin -> remover o vinculo do repositório local com o do gitHub
 
+git remote -v -> mostra o eu "link" com repositório local e o do GITHUB.
+
 git push -u origin main (branch) -> empurrar as atualizações para o repositório do gitHub.
+
+git checkout -b "nome da brench: novo-botao" -> cria e ja entra na nova brench.
+
+git checkout main (brench) -> alterando as brunchs. 
+
+git merge nome da brench: novo-botao. -> unindo as brenchs.

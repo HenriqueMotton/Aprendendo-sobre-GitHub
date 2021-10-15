@@ -28,5 +28,5 @@ Após ter feito isso tudo pela primeira vez, nas proximas atualizações você s
 
 2) git commit -m "menssagem"
 
-3) push origin main
+3) git push origin main
     - Desta vez não precisa do -u 
