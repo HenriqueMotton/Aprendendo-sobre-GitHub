@@ -10,17 +10,17 @@ git status -> Auto explicativo.
 git commit -m "menssagem do commit" -> Postar as altereções do projeto.
 
 git remote add origin "url do repositório" -> vincular o repositório local com o do gitHub.
-
 git remote remove origin -> remover o vinculo do repositório local com o do gitHub
-
 git remote -v -> mostra o eu "link" com repositório local e o do GITHUB.
 
 git push -u origin main (branch) -> empurrar as atualizações para o repositório do gitHub.
 
 git checkout -b "nome da brench: novo-botao" -> cria e ja entra na nova brench.
-
 git checkout main (brench) -> alterando as brunchs. 
 
 git merge nome da brench: novo-botao. -> unindo as brenchs.
 
 git clone
+
+git config --global core.excludesFile ~/.gitignore -> Agora todos os repositórios git ignoram os arquivos colocados no arquivo ~/.gitignore.
+

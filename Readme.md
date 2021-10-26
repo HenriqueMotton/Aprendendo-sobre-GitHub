@@ -1,4 +1,4 @@
-Olá, aqui estou aprendendo a usar o Git.
+Olá, aqui estou aprendendo a usar o GitHub.
 
 Fazendo uso e testes de vários comandos.
 
