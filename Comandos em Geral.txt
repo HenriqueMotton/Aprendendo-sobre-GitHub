@@ -20,7 +20,7 @@ git checkout -b "nome da branch: novo-botao" -> cria e ja entra na nova branch.
 git checkout main (branch) -> "caminhando entre as branchs" 
 
 -- MERGE --
-git merge nome da brench: novo-botao. -> unindo as brenchs.
+git merge nome da branch: novo-botao. -> unindo as branchs.
 
 git clone
 
