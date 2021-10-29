@@ -2,7 +2,7 @@ git --version -> Auto explicativo.
 
 git init -> iniciar um repositório git.
 
-git add (nome do arquivo) -> manda os arquivos para a area de standing (Aguardando..)
+git add ("nome do arquivo") -> manda os arquivos para a area de standing (Aguardando..)
 git add . -> coloca todos os arquivos que estão no repositório no standing
 
 git status -> Auto explicativo.
@@ -32,3 +32,5 @@ git config --global core.excludesFile ~/.gitignore -> Agora todos os repositóri
 
 git clean -fd
 git reset --hard
+
+Para ignorar algum arquivo ou pasta na hora de adicionar ao repositorio, basta criar um .gitignore e dentro dele escrever as pastas ou arquivos correspondentes ao que não deseja incluir.
