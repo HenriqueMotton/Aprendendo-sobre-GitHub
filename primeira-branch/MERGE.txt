@@ -1,0 +1,2 @@
+Este teste a principio existia somente dentro da BRANCH NEW_BRANCH.
+Porém é um teste de MERGE, que irá juntar com a main.
