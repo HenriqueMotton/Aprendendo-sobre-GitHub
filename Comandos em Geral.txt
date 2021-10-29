@@ -26,11 +26,18 @@ git merge nome da brench: novo-botao. -> unindo as brenchs.
 git push origin main
 
 
-git clone
+git clone link.git -> pegar o repositorio inteiro da pessoa e jogar para o seu repositorio.
 
 git config --global core.excludesFile ~/.gitignore -> Agora todos os repositórios git ignoram os arquivos colocados no arquivo ~/.gitignore.
 
 git clean -fd
 git reset --hard
 
-Para ignorar algum arquivo ou pasta na hora de adicionar ao repositorio, basta criar um .gitignore e dentro dele escrever as pastas ou arquivos correspondentes ao que não deseja incluir.
+Para ignorar algum arquivo ou pasta na hora de adicionar ao repositorio, basta criar um .gitignore e 
+dentro dele escrever as pastas ou arquivos correspondentes ao que não deseja incluir.
+
+git pull -> puxa para o seu repositorio local o do gitHUB.
+
+fork -> Para puxar um repositorio do gitHUB para o seu gitHUB, tem que utilizar o FORK.
+
+pull request -> Solicitação para o dono de um repositorio adicionar algo que vc fez no projeto dele. Contribuindo.
