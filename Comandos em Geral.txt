@@ -26,6 +26,3 @@ git config --global core.excludesFile ~/.gitignore -> Agora todos os repositóri
 
 git clean -fd
 git reset --hard
-
-BLAAA
-
