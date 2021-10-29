@@ -24,3 +24,5 @@ git clone
 
 git config --global core.excludesFile ~/.gitignore -> Agora todos os repositórios git ignoram os arquivos colocados no arquivo ~/.gitignore.
 
+git clean -fd
+git reset --hard
