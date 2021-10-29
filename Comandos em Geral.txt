@@ -19,12 +19,12 @@ git push -u origin main (branch) -> empurrar as atualizações para o repositór
 git checkout -b "nome da branch: novo-botao" -> cria e ja entra na nova branch.
 git checkout main (branch) -> "caminhando entre as branchs" 
 
+-- MERGE --
 Ao realizar o Merge, deve ir até a branch que deseja juntar e seguir os passos:
+
 git merge nome da brench: novo-botao. -> unindo as brenchs.
 git push origin main
 
--- MERGE --
-git merge nome da branch: novo-botao. -> unindo as branchs.
 
 git clone
 
